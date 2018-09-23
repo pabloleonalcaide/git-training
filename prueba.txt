@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello world, let´s train!
 
 Another line!
+=======
+Hello world, let´s train! YEAHH baby
+>>>>>>> origin/master
