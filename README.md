@@ -24,6 +24,7 @@
 
 * git push origin --tags => nos permite subir todos los tags de nuestro repositorio local
 
+* git rebase RAMA => integra los commits de diferentes ramas, dando como resultado una historia lineal del proyecto, evitando la creación de commits innecesarios.
 ## Conceptos de interés
 
 * ISSUES: Nos permiten crear notificaciones para identificar errores o mejoras en el código.
