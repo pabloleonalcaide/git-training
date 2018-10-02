@@ -1,6 +1,8 @@
 # Apuntes de GIT & GITHUB
 
-## Comandos
+## Listado de comandos, conceptos útiles y consejos para trabajar con Git y Github
+
+### Comandos
 
 * git branch -a => nos muestra las ramas ocultas
 
@@ -25,7 +27,8 @@
 * git push origin --tags => nos permite subir todos los tags de nuestro repositorio local
 
 * git rebase RAMA => integra los commits de diferentes ramas, dando como resultado una historia lineal del proyecto, evitando la creación de commits innecesarios.
-## Conceptos de interés
+
+### Conceptos de interés
 
 * ISSUES: Nos permiten crear notificaciones para identificar errores o mejoras en el código.
 
